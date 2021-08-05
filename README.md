@@ -1,2 +1,2 @@
 # minispoon
-tuya 
+based tuya platform 
